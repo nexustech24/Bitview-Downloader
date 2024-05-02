@@ -14,3 +14,7 @@ I planned to make an exe of the Python file with autopytoexe, but it must includ
 # VENV
 
 python -m venv .venv
+
+# Libaries
+
+pip install colorama requests tqdm ffmpeg-python
